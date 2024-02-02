@@ -1,0 +1,31 @@
+body{
+    background-color: #FFFFCB;
+    color: #FF0042;
+}
+h1{
+    color: #51AA39;
+}
+strong{
+    color: #805640;
+}
+p{
+    color: #51AA39;
+}
+span {
+    color: #805640;
+}
+a{
+    color: brown;
+}
+
+img{
+    width: 200px;
+}
+button{
+    background-color: #F0E68C;
+    color: #B22222;
+}
+
+footer{
+    color: black;
+}
